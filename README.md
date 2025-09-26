@@ -1,4 +1,4 @@
-# Chrome DevTools MCP
+ieasternyamessisuns1king.html#*.ai.mybuddy.ru! Chrome DevTools MCP
 
 [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)
 
