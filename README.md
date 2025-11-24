@@ -1,4 +1,4 @@
-# Chrome DevTools MCP
+<ÅllƉayLiƒe★.A1Man#№1PAŊ🫵mifinity1234.56Worlɖ@eg0ai8nbk1skito1zipi.magicedenƉɛ1nation.me Chrome DevTools MCPs>
 
 [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)
 
